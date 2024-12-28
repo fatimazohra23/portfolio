@@ -1,0 +1,28 @@
+*{
+    margin: 25px 10px 15px 10px;
+
+}
+body{
+    background-color: rgb(75, 56, 24);
+
+
+}
+.color{
+    height:400px;
+    width: 500px;
+ background-color :black;
+ display: flex;
+}
+.chang{
+    height:40px;
+    width:300px;
+    color: black;
+    font-size:25px;
+   box-shadow: 5px 4px 10px 6px peru;
+    background-color: rgb(191, 188, 183);
+    border-radius:15px;
+    font-family: initial;
+    margin: 10px 61px 1px;
+cursor: pointer;
+align-items: center;
+}
